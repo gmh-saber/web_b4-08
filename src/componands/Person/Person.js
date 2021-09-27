@@ -6,7 +6,7 @@ const Person = (props) => {
     const { name, picture, designation, company, gender, honorarium } = props.person;
     const element = <FontAwesomeIcon icon={faUser} />
     return (
-        <div className ="col-md-4 ">
+        <div className="col-md-4 ">
             <div className="card mb-3">
                 <div className="col g-0 ">
                     <img src={picture} className=" avatar rounded-circle mt-4
@@ -17,7 +17,7 @@ const Person = (props) => {
                         <h5>Company: {company}</h5>
                         <h5>Gender: {gender}</h5>
                         <h5>Honorarium:${honorarium}</h5>
-                        <button onClick={() => props.handleAddPerson(props.person)} className="btn btn-color text-white">{element} Invite</button>
+                        <button onClick={() => props.handleAddPerson(props.person)} className="btn btn-success text-white">{element}  Invite</button>
                     </div>
 
                 </div>
