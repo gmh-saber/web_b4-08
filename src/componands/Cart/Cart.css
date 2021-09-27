@@ -1,4 +1,7 @@
- 
+ .cartN{
+   position: fixed;
+   box-shadow: 13px 13px 10px gray;
+ }
  .btn-color{
     margin-top: 10px;
     background-color: #2e6da4;
