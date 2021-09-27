@@ -9,13 +9,13 @@
 }
   .card{
       height: 570px;
-      box-shadow: 4px 4px 7px gray;
+      box-shadow: 0px 0px 7px gray;
       border-radius: 10px;
   }
   .card:hover{
-    box-shadow: 0 5px 10px rgb(134 136 132);
-    transform: scale(1);
-    transition: 0.6s;
+    box-shadow: 0px 0px 10px rgb(134 136 132);
+    transform: scale(1.02);
+    transition: 0.5s;
   }
   .btn-color{
       background-color: #2e6da4;
