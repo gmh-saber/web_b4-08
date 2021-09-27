@@ -1,0 +1,22 @@
+.avatar img{
+    
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    margin-left:70px;
+    border-radius: 50%;
+  
+}
+  .card{
+      height: 570px;
+      box-shadow: 4px 4px 7px gray;
+      border-radius: 10px;
+  }
+  .card:hover{
+    box-shadow: 0 5px 10px rgb(134 136 132);
+    transform: scale(1);
+    transition: 0.6s;
+  }
+  .btn-color{
+      background-color: #2e6da4;
+  }

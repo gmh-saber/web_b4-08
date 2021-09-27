@@ -1,0 +1,157 @@
+[
+    {
+        "_id": "614f6337109a6b918d5eb7f6",
+        "key": 0,
+        "name": "Diwankar Nighami",
+        "honorarium": 10000,
+        "picture":"https://www.thesoftwarereport.com/wp-content/uploads/2020/11/24.-Diwakar-Niga-300x300.jpg",
+        "gender": "male",
+        "company": "Newgen Software Technologies",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f63371fc4466603f3ce38",
+        "key": 1,
+        "name": " Wayne Wang",
+        "honorarium": 5000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/25.-Wayne-Wang-300x300.png",
+        "gender": "male",
+        "company": " CDP Group",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337c80781eaf54eb8e5",
+        "key": 2,
+        "name": "Raheel Iqbal",
+        "honorarium": 3000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/23.-Raheel-Iqbal-300x300.jpg",
+        "gender": "male",
+        "company": " Codebase Technologies",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337120694fab95036d9",
+        "key": 3,
+        "name": "Dhiraj Rajaram",
+        "honorarium": 7000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/22.-Dhiraj-Rajaram-300x300.jpg",
+        "gender": "male",
+        "company": "Mu Sigma",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f633777cd3f059fe60f6d",
+        "key": 4,
+        "name": "Shyamal Kumar",
+        "honorarium": 8000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/21.-Shyamal-Kumar-1-300x300.jpg",
+        "gender": "male",
+        "company": "Lavelle Networks",
+        "designation": "CEO "
+    },
+    {
+        "_id": "614f6337168f437a710f9198",
+        "key": 5,
+        "name": "Dai Wenyuan",
+        "honorarium": 6000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/20.-Dai-Wenyuan-300x300.png",
+        "gender": "male",
+        "company": "4Paradigm",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f633757b31c7fefa18bc4",
+        "key": 6,
+        "name": "Emmanuel Benzaquen",
+        "honorarium": 3000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/5.-Emmanuel-Benzaquen-300x300.jpg",
+        "gender": "male",
+        "company": "Checkmarx",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337171629bbeefaeace",
+        "key": 7,
+        "name": "Kushal Nahata",
+        "honorarium": 2000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/4.-Kushal-Nahata-300x300.png",
+        "gender": "male",
+        "company": " FarEye",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f633757a87b4f85df6887",
+        "key": 8,
+        "name": "Siddhartha Gupta",
+        "honorarium": 1000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/3.-Siddhartha-Gupta-300x300.jpg",
+        "gender": "male",
+        "company": "Mettl",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337718e5fcce4d58653",
+        "key": 9,
+        "name": "Liu Qingfeng",
+        "honorarium": 4000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/2.-Liu-Qingfeng-300x300.jpg",
+        "gender": "male",
+        "company": " iFlytek",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337d7c8843495720cf5",
+        "key": 10,
+        "name": "Li Xu",
+        "honorarium": 3000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/1.-Li-Xu-300x300.jpg",
+        "gender": "male",
+        "company": "SenseTime",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337e32229aec24d1d92",
+        "key": 11,
+        "name": "Linus Torvalds",
+        "honorarium": 4000,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxz8qDrWrOGEKVVZAViqMkIQwv1VVZdnVYJQ&usqp=CAU",
+        "gender": "male",
+        "company": "VALREDA",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f63378f0b196406784080",
+        "key": 12,
+        "name": "Amit Jain",
+        "honorarium": 5000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/6.-Amit-Jain-300x300.jpg",
+        "gender": "male",
+        "company": "CarDekho",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f63370c2d9291b0a980d2",
+        "key": 13,
+        "name": "Tomer Bar-Zeev",
+        "honorarium": 3000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/10.-Tomer-Bar-Zeev-300x300.png",
+        "gender": "male",
+        "company": "ironSource",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f63379fe55e25b2caf200",
+        "key": 14,
+        "name": "Dennis Ritchie",
+        "honorarium": 2000,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm36ZUU9sQVQogbGu41yi6Pb32HskyxNsXQ&usqp=CAU",
+        "gender": "male",
+        "company": "ENTALITY",
+        "designation": "INSECTUS"
+    }
+]
+ 
+ 
+ 
+
+
