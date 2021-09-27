@@ -1,15 +1,5 @@
 [
     {
-        "_id": "614f6337109a6b918d5eb7f6",
-        "key": 0,
-        "name": "Diwankar Nighami",
-        "honorarium": 10000,
-        "picture":"https://www.thesoftwarereport.com/wp-content/uploads/2020/11/24.-Diwakar-Niga-300x300.jpg",
-        "gender": "male",
-        "company": "Newgen Software Technologies",
-        "designation": "CEO"
-    },
-    {
         "_id": "614f63371fc4466603f3ce38",
         "key": 1,
         "name": " Wayne Wang",
@@ -20,6 +10,16 @@
         "designation": "CEO"
     },
     {
+        "_id": "614f63379fe55e25b2caf200",
+        "key": 14,
+        "name": "Dennis Ritchie",
+        "honorarium": 2000,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm36ZUU9sQVQogbGu41yi6Pb32HskyxNsXQ&usqp=CAU",
+        "gender": "male",
+        "company": "ENTALITY",
+        "designation": "INSECTUS"
+    },
+    {
         "_id": "614f6337c80781eaf54eb8e5",
         "key": 2,
         "name": "Raheel Iqbal",
@@ -27,6 +27,16 @@
         "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/23.-Raheel-Iqbal-300x300.jpg",
         "gender": "male",
         "company": " Codebase Technologies",
+        "designation": "CEO"
+    },
+    {
+        "_id": "614f6337109a6b918d5eb7f6",
+        "key": 0,
+        "name": "Diwankar Nighami",
+        "honorarium": 10000,
+        "picture": "https://www.thesoftwarereport.com/wp-content/uploads/2020/11/24.-Diwakar-Niga-300x300.jpg",
+        "gender": "male",
+        "company": "Newgen Software Technologies",
         "designation": "CEO"
     },
     {
@@ -138,20 +148,5 @@
         "gender": "male",
         "company": "ironSource",
         "designation": "CEO"
-    },
-    {
-        "_id": "614f63379fe55e25b2caf200",
-        "key": 14,
-        "name": "Dennis Ritchie",
-        "honorarium": 2000,
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm36ZUU9sQVQogbGu41yi6Pb32HskyxNsXQ&usqp=CAU",
-        "gender": "male",
-        "company": "ENTALITY",
-        "designation": "INSECTUS"
     }
 ]
- 
- 
- 
-
-
